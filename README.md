@@ -58,7 +58,7 @@ Visualized actual vs. predicted stock price trends using multi-layer LSTM with d
 
 Contact
 
-Email me at saikushalthogaru@gmail.com
+Email me at bharathsiripurapu21621@gmail.com
  to get the full project code, PPT, report, synopsis, and video presentation of this project.
 
 Feel free to contact me for any kind of help on projects.
